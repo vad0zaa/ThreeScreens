@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Three Screens</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second_screen">SecondScreen</string>
+    <string name="title_activity_third_screen">ThirdScreen</string>
+</resources>
