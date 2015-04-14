@@ -14,7 +14,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="перейти на второй экран"
+        android:text="перейти на второй экран "
         android:id="@+id/goToSecondScreenBtn"
         android:onClick="showSecondScreen"
         android:layout_below="@+id/textView"
@@ -25,7 +25,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="перейти на третий экран"
+        android:text="перейти на третий экран "
         android:id="@+id/goToThirdScreenBtn"
         android:onClick="showThirdScreen"
         android:layout_below="@+id/goToSecondScreenBtn"

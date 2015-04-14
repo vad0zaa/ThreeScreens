@@ -15,7 +15,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="перейти на первый экран"
+        android:text="перейти на первый экран "
         android:id="@+id/goFromSecondToFirstScreenBtn"
         android:onClick="showFirstScreen"
         android:layout_below="@+id/textView2"
